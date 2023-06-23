@@ -7,10 +7,10 @@ Android Project created in Chapter 17 of the HTML and CSS [course](https://githu
 ![GitHub watchers](https://img.shields.io/github/watchers/guilhermemoraes1/projeto-android?logo=github&color=1a5c37)
 <a  href="https://twitter.com/guilhermemorae_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=white" target="_blank"></a>
 
-## About 
-It tells the story of Bugdroid, the mascot of Android. 
+## About
+  It tells the story of Bugdroid, the mascot of Android.
 
-[Visit the website](https://guilhermemoraes1.github.io/projeto-android/)
+:arrow_right:  [Visit the website](https://guilhermemoraes1.github.io/projeto-android/)
 
 ## Languages and tools
 <div>
@@ -30,18 +30,10 @@ It tells the story of Bugdroid, the mascot of Android.
     <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width="26px" />
   </picture>
 </div>
-      
-<!--
-<img align="left" alt="GitHub" width="26px" src="" style="padding-right:10px;" />
-
-<img align="left" alt="GitHub" width="26px" src="" style="padding-right:10px;" /> 
-e32
--->
-<br>
 
 ## Related Projects
 If you enjoyed this repository, I suggest exploring these other projects as well:
-- [Tik Tok clone]()
+- [Tik Tok clone](https://github.com/guilhermemoraes1/TikTokClone)
 - [Repository with the HTML and CSS course.](https://github.com/guilhermemoraes1/html-css)
 
 ## 
