@@ -34,7 +34,6 @@ Android Project created in Chapter 17 of the HTML and CSS [course](https://githu
 
 ## Related Projects
 If you enjoyed this repository, I suggest exploring these other projects as well:
-- [Tik Tok clone](https://github.com/guilhermemoraes1/TikTokClone)
 - [Repository with the HTML and CSS course.](https://github.com/guilhermemoraes1/html-css)
 
 ## 
